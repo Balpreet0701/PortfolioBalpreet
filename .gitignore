@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+
+ClientApp/node_modules/
+ClientApp/dist/
+ClientApp/.env
+
+*.db
+*.log
